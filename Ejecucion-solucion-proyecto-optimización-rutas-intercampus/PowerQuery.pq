@@ -1,5 +1,5 @@
 let
-    AzureMapsKey = "27nYcegxljPpPq0IuNzWJ7D4hognyjdlgZCy0LovJljzAbLH2EEeJQQJ99AEACYeBjF7S6WmAAAgAZMPObOT",
+    AzureMapsKey = "-----> aqui va tu apiKey, entre las comillas<-----",
 
     // Lista de coordenadas de inicio y fin en formato de registros
     CoordinatesList = {
