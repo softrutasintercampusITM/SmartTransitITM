@@ -21,4 +21,4 @@ Para desplegar la aplicación seguir las siguientes instrucciones:
 
 
 
-**Agradecimientos a en el marco de investigación del programa Jóvenes investigadores ITM.** 
+**Agradecimientos en el marco de investigación del programa Jóvenes investigadores ITM.** 
