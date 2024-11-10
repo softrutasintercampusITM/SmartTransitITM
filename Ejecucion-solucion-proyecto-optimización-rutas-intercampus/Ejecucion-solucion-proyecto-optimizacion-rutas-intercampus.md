@@ -33,7 +33,7 @@
 
 ![Editor avanzado - Power Query](https://github.com/softrutasintercampusITM/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/Imagenes/Desktop/4-Editor-avanzado-modificar-power-query-desktop.jpg)
 
-   - Modifica el power query, es decir borra el actual y luego copia e ingresa al siguiente link para copiar el modificado.**Nota:** Verifica que la sintaxis esté correcta. [Power BI Query Modificado](https://github.com/sanrulo1030/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/PowerQuery.txt).
+   - Modifica el power query, es decir borra el actual y luego copia e ingresa al siguiente link para copiar el modificado.**Nota:** Verifica que la sintaxis esté correcta. [Power BI Query Modificado](https://github.com/softrutasintercampusITM/SmartTransitITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/PowerQuery.pq).
 
 ![Verificar sintaxis](https://github.com/softrutasintercampusITM/Optimizacion-rutas-autobus-intercampus-ITM/blob/main/Ejecucion-solucion-proyecto-optimizaci%C3%B3n-rutas-intercampus/Imagenes/Desktop/4-Editor-avanzado-modificar-power-query-verificar-sintaxis-desktop.jpg)
    
